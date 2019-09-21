@@ -4,4 +4,4 @@ These experiments were performed on an online platform, Tinker CAD, provided by 
 
 This repository is created for BEEE Lab experiments under evaluation by Chandigarh University.
 
-Created by Sawan Sihag (19BCS6059) using TinkerCad.
+Created by Dhananjay Singh (19BCS3806) using TinkerCad.
