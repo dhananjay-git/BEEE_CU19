@@ -1,1 +1,4 @@
-
+This repository has been written after the completion of phase 1 of evaluation-2 of beee laboratory.
+The given task was to design a circuit to respond to the thermal changes of a gas burner.
+The task has been achieved by using the arduino uno,led's,wires,linear heat sensor.
+The code to run the following system has also been submitted.
